@@ -1,0 +1,510 @@
+C:\TDM-GCC-64\dslab>sll
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+1
+Enter number of nodes we need to create
+3
+current node data
+10
+current node data
+20
+current node data
+30
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+10->20->30->program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+2
+Enter data
+50
+50program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+3
+Enter data
+60
+Enter position
+2
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+50->60->10->20->30->program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+4
+enter data
+70
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+50->60->10->20->30->70->program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+5
+Enter data
+80
+Enter value
+10
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+50->60->80->10->20->30->70->program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+6
+Enter data
+90
+Enter value
+30
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+50->60->80->10->20->30->90->70->program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+7
+Deleted element is 50
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+8
+Deleted element is 70
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+60->80->10->20->30->90->program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+9
+Enter position of deletion
+2
+Deleted element is 80
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+60->10->20->30->90->program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+10
+Enter before which node we need to delete
+20
+Deleted element is 10
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+60->20->30->90->program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+11
+Enter after which element we need to delete
+60
+deleted data is 20
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+60->30->90->program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+13
+90->30->60->program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+14
+Enter value
+30
+Element found at 2
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+60->30->90->program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+15
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+30->60->90->program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-traversal
+13-display in reverse
+14-search
+15-sort
+enter your choice
+16
+
+C:\TDM-GCC-64\dslab>
+
