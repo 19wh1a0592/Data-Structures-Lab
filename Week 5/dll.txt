@@ -1,0 +1,497 @@
+Output:
+C:\TDM-GCC-64\dslab>gcc double_linkedlist.c -o double_linkedlist
+
+C:\TDM-GCC-64\dslab>double_linkedlist
+program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+1
+Enter the number of nodes
+4
+Enter current node data
+10
+Enter current node data
+20
+Enter current node data
+30
+Enter current node data
+40
+program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+10.00 <-> 20.00 <-> 30.00 <-> 40.00 <-> program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+2
+Enter current node data
+50
+program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+50.00 <-> 10.00 <-> 20.00 <-> 30.00 <-> 40.00 <-> program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+3
+Enter current node data
+80
+Enter position
+2
+program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+50.00 <-> 80.00 <-> 10.00 <-> 20.00 <-> 30.00 <-> 40.00 <-> program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+4
+Enter cur node data
+90
+program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+50.00 <-> 80.00 <-> 10.00 <-> 20.00 <-> 30.00 <-> 40.00 <-> 90.00 <-> program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+5
+Enter current node data
+100
+Enter the data before which we need to insert
+30
+program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+50.00 <-> 80.00 <-> 10.00 <-> 20.00 <-> 100.00 <-> 30.00 <-> 40.00 <-> 90.00 <-> program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+6
+Enter current node data
+110
+Enter the data after which we need to insert
+20
+program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+50.00 <-> 80.00 <-> 10.00 <-> 20.00 <-> 110.00 <-> 100.00 <-> 30.00 <-> 40.00 <-> 90.00 <-> program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+7
+Deleted element is 50.000000
+program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+80.00 <-> 10.00 <-> 20.00 <-> 110.00 <-> 100.00 <-> 30.00 <-> 40.00 <-> 90.00 <-> program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+8
+Deleted element is 90.000000
+program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+9
+Enter the position of deletion
+3
+Deleted data is 20.000000
+program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+80.00 <-> 10.00 <-> 110.00 <-> 100.00 <-> 30.00 <-> 40.00 <-> program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+10
+Enter before which node we need to delete
+30
+Deleted element 100.000000
+program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+11
+Enter after which node we need to delete
+10
+Deleted element is 110.000000
+program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+80.00 <-> 10.00 <-> 30.00 <-> 40.00 <-> program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+13
+Elements of dll are
+40.000000 <->30.000000 <->110.000000 <->10.000000 <->80.000000 <->program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+80.00 <-> 10.00 <-> 30.00 <-> 40.00 <-> program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+15
+program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+10.00 <-> 30.00 <-> 40.00 <-> 80.00 <-> program for double linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+16
+
+C:\TDM-GCC-64\dslab>
+
+
+
