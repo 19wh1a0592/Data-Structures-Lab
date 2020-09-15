@@ -1,0 +1,65 @@
+C:\TDM-GCC-64\dslab>gcc stack_sll.c -o stack_sll
+
+C:\TDM-GCC-64\dslab>stack_sll
+
+1-push
+2-pop
+3-display
+4-peek
+5-exit
+enter the choice
+1
+enter the current node data:
+10
+
+1-push
+2-pop
+3-display
+4-peek
+5-exit
+enter the choice
+1
+enter the current node data:
+20
+
+1-push
+2-pop
+3-display
+4-peek
+5-exit
+enter the choice
+3
+Stack=>20->10->
+1-push
+2-pop
+3-display
+4-peek
+5-exit
+enter the choice
+2
+Deleted element is 20
+1-push
+2-pop
+3-display
+4-peek
+5-exit
+enter the choice
+3
+Stack=>10->
+1-push
+2-pop
+3-display
+4-peek
+5-exit
+enter the choice
+4
+The top most element is 10
+1-push
+2-pop
+3-display
+4-peek
+5-exit
+enter the choice
+5
+
+C:\TDM-GCC-64\dslab>
