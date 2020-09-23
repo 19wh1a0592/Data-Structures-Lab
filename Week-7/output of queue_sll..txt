@@ -1,0 +1,44 @@
+C:\TDM-GCC-64\dslab>gcc queue_sll.c -o queue_sll
+
+C:\TDM-GCC-64\dslab>queue_sll
+
+1-enqueue
+2-dequeue
+3-display
+4-exit
+enter your choice1
+enter data to insert
+10
+
+1-enqueue
+2-dequeue
+3-display
+4-exit
+enter your choice1
+enter data to insert
+20
+
+1-enqueue
+2-dequeue
+3-display
+4-exit
+enter your choice3
+10->20->
+1-enqueue
+2-dequeue
+3-display
+4-exit
+enter your choice2
+deleted data 10
+
+1-enqueue
+2-dequeue
+3-display
+4-exit
+enter your choice3
+20->
+1-enqueue
+2-dequeue
+3-display
+4-exit
+enter your choice4
