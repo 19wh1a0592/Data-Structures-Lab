@@ -1,0 +1,82 @@
+//output of Bst
+C:\TDM-GCC-64\dslab>gcc Bst.c -o Bst
+
+C:\TDM-GCC-64\dslab>Bst
+
+1-Create
+2-Preorder
+3-Inorder
+4-PostOrder
+5-Exit
+Enter your choice:1
+
+Enter data:5
+
+1-Create
+2-Preorder
+3-Inorder
+4-PostOrder
+5-Exit
+Enter your choice:1
+
+Enter data:3
+
+1-Create
+2-Preorder
+3-Inorder
+4-PostOrder
+5-Exit
+Enter your choice:1
+
+Enter data:10
+
+1-Create
+2-Preorder
+3-Inorder
+4-PostOrder
+5-Exit
+Enter your choice:1
+
+Enter data:12
+
+1-Create
+2-Preorder
+3-Inorder
+4-PostOrder
+5-Exit
+Enter your choice:1
+
+Enter data:15
+
+1-Create
+2-Preorder
+3-Inorder
+4-PostOrder
+5-Exit
+Enter your choice:2
+Preorder Traversal
+5 3 10 12 15
+1-Create
+2-Preorder
+3-Inorder
+4-PostOrder
+5-Exit
+Enter your choice:3
+Inorder Traversal
+3 5 10 12 15
+1-Create
+2-Preorder
+3-Inorder
+4-PostOrder
+5-Exit
+Enter your choice:4
+Postorder Traversal
+3 15 12 10 5
+1-Create
+2-Preorder
+3-Inorder
+4-PostOrder
+5-Exit
+Enter your choice:5
+
+C:\TDM-GCC-64\dslab>
