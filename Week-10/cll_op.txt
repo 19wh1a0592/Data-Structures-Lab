@@ -1,0 +1,195 @@
+output of cll:
+
+C:\TDM-GCC-64\dslab>gcc cll.c -o cll
+
+C:\TDM-GCC-64\dslab>cll
+
+ 1-create
+2-insert at begin
+3-insert at position
+4-delete at begin
+5-delete at end
+6-delete at position
+7-traversal
+8-exit
+enter yr choice
+1
+enter cur data
+10
+
+ 1-create
+2-insert at begin
+3-insert at position
+4-delete at begin
+5-delete at end
+6-delete at position
+7-traversal
+8-exit
+enter yr choice
+1
+enter cur data
+20
+
+ 1-create
+2-insert at begin
+3-insert at position
+4-delete at begin
+5-delete at end
+6-delete at position
+7-traversal
+8-exit
+enter yr choice
+1
+enter cur data
+30
+
+ 1-create
+2-insert at begin
+3-insert at position
+4-delete at begin
+5-delete at end
+6-delete at position
+7-traversal
+8-exit
+enter yr choice
+1
+enter cur data
+40
+
+ 1-create
+2-insert at begin
+3-insert at position
+4-delete at begin
+5-delete at end
+6-delete at position
+7-traversal
+8-exit
+enter yr choice
+7
+10->20->30->40
+ 1-create
+2-insert at begin
+3-insert at position
+4-delete at begin
+5-delete at end
+6-delete at position
+7-traversal
+8-exit
+enter yr choice
+2
+enter cur data5
+
+ 1-create
+2-insert at begin
+3-insert at position
+4-delete at begin
+5-delete at end
+6-delete at position
+7-traversal
+8-exit
+enter yr choice
+7
+5->10->20->30->40
+ 1-create
+2-insert at begin
+3-insert at position
+4-delete at begin
+5-delete at end
+6-delete at position
+7-traversal
+8-exit
+enter yr choice
+3
+enter position of insertion2
+enter cur data15
+
+ 1-create
+2-insert at begin
+3-insert at position
+4-delete at begin
+5-delete at end
+6-delete at position
+7-traversal
+8-exit
+enter yr choice
+7
+5->15->10->20->30->40
+ 1-create
+2-insert at begin
+3-insert at position
+4-delete at begin
+5-delete at end
+6-delete at position
+7-traversal
+8-exit
+enter yr choice
+4
+deleted element 5
+ 1-create
+2-insert at begin
+3-insert at position
+4-delete at begin
+5-delete at end
+6-delete at position
+7-traversal
+8-exit
+enter yr choice
+7
+15->10->20->30->40
+ 1-create
+2-insert at begin
+3-insert at position
+4-delete at begin
+5-delete at end
+6-delete at position
+7-traversal
+8-exit
+enter yr choice
+5
+deleted element 40
+ 1-create
+2-insert at begin
+3-insert at position
+4-delete at begin
+5-delete at end
+6-delete at position
+7-traversal
+8-exit
+enter yr choice
+7
+15->10->20->30
+ 1-create
+2-insert at begin
+3-insert at position
+4-delete at begin
+5-delete at end
+6-delete at position
+7-traversal
+8-exit
+enter yr choice
+6
+enter position of deletion3
+deleted element 20
+ 1-create
+2-insert at begin
+3-insert at position
+4-delete at begin
+5-delete at end
+6-delete at position
+7-traversal
+8-exit
+enter yr choice
+7
+15->10->30
+ 1-create
+2-insert at begin
+3-insert at position
+4-delete at begin
+5-delete at end
+6-delete at position
+7-traversal
+8-exit
+enter yr choice
+8
+
+C:\TDM-GCC-64\dslab>
